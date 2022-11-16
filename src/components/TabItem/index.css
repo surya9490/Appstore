@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.button {
+  padding: 10px;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-bottom: 1px solid #7b8794;
+  color: #7b8794;
+}
+.selected-tab {
+  padding: 10px;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-bottom: 1px solid #2563eb;
+  color: #2563eb;
+}
